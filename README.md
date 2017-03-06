@@ -11,3 +11,18 @@ ssh下执行  wget mhans.cn/ssr.sh && bash ssr.sh
 输入成功会自动开始安装 根据提示进行填写即可  
 等待5分钟左右环境将会安装完毕  
 并打印出你的配置信息
+
+
+**ss-panel one-click installation script**  
+`This is a LAMP + sspanel + shadowsocks one-click installation script`  
+`Can only be used on Centos6.X`  
+`The installation file is located on the Vultr server in Japan`  
+This item was updated synchronously (https://mhans.cn/181.html)  
+My blog (https://mhans.cn)  
+**Instructions**   
+Executive wget mhans.cn/ssr.sh && bash ssr.sh under ssh  
+You will be prompted to enter the authorization code.The authorization code is 990731  
+If you do not enter or enter the error it will not be installed  
+If the input is right it will automatically start.And according to the prompts to fill out  
+Wait for 5 minutes or more the environment will be installed  
+And print out your configuration information
