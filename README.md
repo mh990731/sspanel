@@ -1,4 +1,3 @@
-# sspanel
 **ss-panel前后端一键安装脚本**  
 `这是一个LAMP+sspanel+shadowsocks的一键安装脚本`
 `只能在Centos6.X上使用`
