@@ -1,4 +1,4 @@
-**ss-panel前后端一键安装脚本**  
+#**ss-panel前后端一键安装脚本**  
 `这是一个LAMP+sspanel+shadowsocks的一键安装脚本`
 `只能在Centos6.X上使用`
 `安装文件位于Vultr日本服务器上`  
@@ -13,7 +13,7 @@ ssh下执行  wget mhans.cn/ssr.sh && bash ssr.sh
 并打印出你的配置信息
 
 
-**ss-panel one-click installation script**  
+#**ss-panel one-click installation script**  
 `This is a LAMP + sspanel + shadowsocks one-click installation script`  
 `Can only be used on Centos6.X`  
 `The installation file is located on the Vultr server in Japan`  
