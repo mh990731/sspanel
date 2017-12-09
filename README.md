@@ -2,7 +2,7 @@
 `这是一个LAMP+sspanel+shadowsocks的一键安装脚本`
 `只能在Centos6.X上使用`
 `安装文件位于Vultr日本服务器上`  
-此项目在(https://mhans.cn/181.html) 同步更新     
+此项目在(https://mhans.cn/181.html/amp) 同步更新     
 我的博客[方寸之间](https://mhans.cn "悬停显示")  
 **使用方法**  
 ssh下执行  wget mhans.cn/ssr.sh && bash ssr.sh  
