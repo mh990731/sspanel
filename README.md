@@ -1,8 +1,7 @@
 #**ss-panel前后端一键安装脚本**  
 `这是一个LAMP+sspanel+shadowsocks的一键安装脚本`
 `只能在Centos6.X上使用`
-`安装文件位于Vultr日本服务器上`  
-此项目在(https://mhans.cn/181.html/amp) 同步更新     
+`安装文件不小心删了`    
 我的博客[方寸之间](https://mhans.cn "悬停显示")  
 **使用方法**  
 ssh下执行  wget mhans.cn/ssr.sh && bash ssr.sh  
@@ -16,8 +15,7 @@ ssh下执行  wget mhans.cn/ssr.sh && bash ssr.sh
 #**ss-panel one-click installation script**  
 `This is a LAMP + sspanel + shadowsocks one-click installation script`  
 `Can only be used on Centos6.X`  
-`The installation file is located on the Vultr server in Japan`  
-This item was updated synchronously (https://mhans.cn/181.html)  
+`The installation file is delete by accident`  
 My blog (https://mhans.cn)  
 **Instructions**   
 Executive wget mhans.cn/ssr.sh && bash ssr.sh under ssh  
