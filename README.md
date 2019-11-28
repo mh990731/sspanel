@@ -1,8 +1,8 @@
+__停止维护 Stop maintenance__  
 ~~**ss-panel前后端一键安装脚本**  
 `这是一个LAMP+sspanel+shadowsocks的一键安装脚本`  
 `只能在Centos6.X上使用`  
-`安装文件不小心删了`    
-我的博客[方寸之间](https://mhans.cn "悬停显示")  
+`安装文件不小心删了`      
 **使用方法**  
 ssh下执行  wget mhans.cn/ssr.sh && bash ssr.sh  
 将会提示输入授权码 授权码为990731  
@@ -16,7 +16,6 @@ ssh下执行  wget mhans.cn/ssr.sh && bash ssr.sh
 `This is a LAMP + sspanel + shadowsocks one-click installation script`  
 `Can only be used on Centos6.X`  
 `The installation file is delete by accident`  
-My blog (https://mhans.cn)  
 **Instructions**   
 Executive wget mhans.cn/ssr.sh && bash ssr.sh under ssh  
 You will be prompted to enter the authorization code.The authorization code is 990731  
